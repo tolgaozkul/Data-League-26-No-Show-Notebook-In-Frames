@@ -22,7 +22,7 @@ Sağlık sistemlerinde ciddi kaynak israfına yol açan "randevuya gelmeme (No-S
 * **Local OOF PR-AUC:** 0.49919
 * **Public Leaderboard:** 0.51573
 * **Private Leaderboard:** 0.50731
-* **Final Sıralaması:** 70 takım arasında **15. sıra** 🥈
+* **Final Sıralaması:** 72 takım arasında **15. sıra** 🥈
 
 ## 💻 Kurulum ve Çalıştırma
 
